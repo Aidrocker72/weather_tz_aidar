@@ -1,0 +1,533 @@
+{
+	"status": 200,
+	"data": [
+		{
+			"id": 1,
+			"name": "Moscow",
+			"label": "Москва",
+			"average_temp": 15,
+			"humidity": 65,
+			"hourly_weather": [
+				{
+					"time": "09:00",
+					"temp": 14,
+					"status": "cloudy",
+					"wind_speed": 12,
+					"humidity": 65
+				},
+				{
+					"time": "12:00",
+					"temp": 16,
+					"status": "rainy",
+					"wind_speed": 18,
+					"humidity": 75
+				},
+				{
+					"time": "15:00",
+					"temp": 13,
+					"status": "cloudy",
+					"wind_speed": 10,
+					"humidity": 60
+				},
+				{
+					"time": "18:00",
+					"temp": 12,
+					"status": "windy",
+					"wind_speed": 20,
+					"humidity": 55
+				}
+			],
+			"weekly_weather": [
+				{
+					"time": "Понедельник",
+					"temp": 13,
+					"status": "rainy",
+					"wind_speed": 15,
+					"humidity": 70
+				},
+				{
+					"time": "Вторник",
+					"temp": 17,
+					"status": "cloudy",
+					"wind_speed": 10,
+					"humidity": 60
+				},
+				{
+					"time": "Среда",
+					"temp": 18,
+					"status": "sunny",
+					"wind_speed": 8,
+					"humidity": 55
+				},
+				{
+					"time": "Четверг",
+					"temp": 10,
+					"status": "windy",
+					"wind_speed": 22,
+					"humidity": 50
+				},
+				{
+					"time": "Пятница",
+					"temp": 19,
+					"status": "sunny",
+					"wind_speed": 7,
+					"humidity": 45
+				},
+				{
+					"time": "Суббота",
+					"temp": 16,
+					"status": "cloudy",
+					"wind_speed": 9,
+					"humidity": 65
+				},
+				{
+					"time": "Воскресенье",
+					"temp": 11,
+					"status": "rainy",
+					"wind_speed": 14,
+					"humidity": 75
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Krasnodar",
+			"label": "Краснодар",
+			"average_temp": 22,
+			"humidity": 65,
+			"hourly_weather": [
+				{
+					"time": "10:00",
+					"temp": 23,
+					"status": "sunny",
+					"wind_speed": 8,
+					"humidity": 50
+				},
+				{
+					"time": "13:00",
+					"temp": 25,
+					"status": "sunny",
+					"wind_speed": 10,
+					"humidity": 45
+				},
+				{
+					"time": "16:00",
+					"temp": 24,
+					"status": "cloudy",
+					"wind_speed": 12,
+					"humidity": 60
+				},
+				{
+					"time": "19:00",
+					"temp": 21,
+					"status": "windy",
+					"wind_speed": 15,
+					"humidity": 55
+				}
+			],
+			"weekly_weather": [
+				{
+					"time": "Понедельник",
+					"temp": 24,
+					"status": "sunny",
+					"wind_speed": 9,
+					"humidity": 50
+				},
+				{
+					"time": "Вторник",
+					"temp": 20,
+					"status": "cloudy",
+					"wind_speed": 11,
+					"humidity": 65
+				},
+				{
+					"time": "Среда",
+					"temp": 18,
+					"status": "rainy",
+					"wind_speed": 18,
+					"humidity": 75
+				},
+				{
+					"time": "Четверг",
+					"temp": 19,
+					"status": "windy",
+					"wind_speed": 20,
+					"humidity": 50
+				},
+				{
+					"time": "Пятница",
+					"temp": 26,
+					"status": "sunny",
+					"wind_speed": 7,
+					"humidity": 40
+				},
+				{
+					"time": "Суббота",
+					"temp": 22,
+					"status": "cloudy",
+					"wind_speed": 10,
+					"humidity": 60
+				},
+				{
+					"time": "Воскресенье",
+					"temp": 17,
+					"status": "rainy",
+					"wind_speed": 16,
+					"humidity": 70
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Ufa",
+			"label": "Уфа",
+			"average_temp": 12,
+			"humidity": 65,
+			"hourly_weather": [
+				{
+					"time": "08:00",
+					"temp": 11,
+					"status": "cloudy",
+					"wind_speed": 14,
+					"humidity": 70
+				},
+				{
+					"time": "11:00",
+					"temp": 13,
+					"status": "rainy",
+					"wind_speed": 16,
+					"humidity": 75
+				},
+				{
+					"time": "14:00",
+					"temp": 14,
+					"status": "cloudy",
+					"wind_speed": 12,
+					"humidity": 65
+				},
+				{
+					"time": "17:00",
+					"temp": 10,
+					"status": "windy",
+					"wind_speed": 18,
+					"humidity": 60
+				}
+			],
+			"weekly_weather": [
+				{
+					"time": "Понедельник",
+					"temp": 12,
+					"status": "cloudy",
+					"wind_speed": 13,
+					"humidity": 65
+				},
+				{
+					"time": "Вторник",
+					"temp": 9,
+					"status": "rainy",
+					"wind_speed": 17,
+					"humidity": 75
+				},
+				{
+					"time": "Среда",
+					"temp": 15,
+					"status": "sunny",
+					"wind_speed": 9,
+					"humidity": 50
+				},
+				{
+					"time": "Четверг",
+					"temp": 8,
+					"status": "windy",
+					"wind_speed": 20,
+					"humidity": 55
+				},
+				{
+					"time": "Пятница",
+					"temp": 16,
+					"status": "sunny",
+					"wind_speed": 8,
+					"humidity": 45
+				},
+				{
+					"time": "Суббота",
+					"temp": 13,
+					"status": "cloudy",
+					"wind_speed": 11,
+					"humidity": 60
+				},
+				{
+					"time": "Воскресенье",
+					"temp": 10,
+					"status": "rainy",
+					"wind_speed": 15,
+					"humidity": 70
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Novosibirsk",
+			"label": "Новосибирск",
+			"average_temp": 10,
+			"humidity": 65,
+			"hourly_weather": [
+				{
+					"time": "07:00",
+					"temp": 9,
+					"status": "cloudy",
+					"wind_speed": 10,
+					"humidity": 60
+				},
+				{
+					"time": "12:00",
+					"temp": 11,
+					"status": "rainy",
+					"wind_speed": 14,
+					"humidity": 70
+				},
+				{
+					"time": "15:00",
+					"temp": 8,
+					"status": "windy",
+					"wind_speed": 18,
+					"humidity": 55
+				},
+				{
+					"time": "18:00",
+					"temp": 7,
+					"status": "cloudy",
+					"wind_speed": 12,
+					"humidity": 65
+				}
+			],
+			"weekly_weather": [
+				{
+					"time": "Понедельник",
+					"temp": 6,
+					"status": "rainy",
+					"wind_speed": 16,
+					"humidity": 75
+				},
+				{
+					"time": "Вторник",
+					"temp": 12,
+					"status": "cloudy",
+					"wind_speed": 10,
+					"humidity": 60
+				},
+				{
+					"time": "Среда",
+					"temp": 14,
+					"status": "sunny",
+					"wind_speed": 7,
+					"humidity": 45
+				},
+				{
+					"time": "Четверг",
+					"temp": 5,
+					"status": "windy",
+					"wind_speed": 20,
+					"humidity": 50
+				},
+				{
+					"time": "Пятница",
+					"temp": 15,
+					"status": "sunny",
+					"wind_speed": 8,
+					"humidity": 50
+				},
+				{
+					"time": "Суббота",
+					"temp": 11,
+					"status": "cloudy",
+					"wind_speed": 9,
+					"humidity": 65
+				},
+				{
+					"time": "Воскресенье",
+					"temp": 7,
+					"status": "rainy",
+					"wind_speed": 14,
+					"humidity": 70
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Krasnoyarsk",
+			"label": "Красноярск",
+			"average_temp": 8,
+			"humidity": 65,
+			"hourly_weather": [
+				{
+					"time": "09:00",
+					"temp": 7,
+					"status": "cloudy",
+					"wind_speed": 11,
+					"humidity": 65
+				},
+				{
+					"time": "12:00",
+					"temp": 9,
+					"status": "rainy",
+					"wind_speed": 15,
+					"humidity": 75
+				},
+				{
+					"time": "15:00",
+					"temp": 6,
+					"status": "windy",
+					"wind_speed": 19,
+					"humidity": 55
+				},
+				{
+					"time": "18:00",
+					"temp": 5,
+					"status": "cloudy",
+					"wind_speed": 13,
+					"humidity": 60
+				}
+			],
+			"weekly_weather": [
+				{
+					"time": "Понедельник",
+					"temp": 4,
+					"status": "rainy",
+					"wind_speed": 17,
+					"humidity": 70
+				},
+				{
+					"time": "Вторник",
+					"temp": 10,
+					"status": "cloudy",
+					"wind_speed": 12,
+					"humidity": 65
+				},
+				{
+					"time": "Среда",
+					"temp": 12,
+					"status": "sunny",
+					"wind_speed": 8,
+					"humidity": 50
+				},
+				{
+					"time": "Четверг",
+					"temp": 3,
+					"status": "windy",
+					"wind_speed": 21,
+					"humidity": 55
+				},
+				{
+					"time": "Пятница",
+					"temp": 13,
+					"status": "sunny",
+					"wind_speed": 7,
+					"humidity": 45
+				},
+				{
+					"time": "Суббота",
+					"temp": 9,
+					"status": "cloudy",
+					"wind_speed": 10,
+					"humidity": 60
+				},
+				{
+					"time": "Воскресенье",
+					"temp": 6,
+					"status": "rainy",
+					"wind_speed": 15,
+					"humidity": 75
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Kazan",
+			"label": "Казань",
+			"average_temp": 14,
+			"humidity": 65,
+			"hourly_weather": [
+				{
+					"time": "10:00",
+					"temp": 13,
+					"status": "sunny",
+					"wind_speed": 9,
+					"humidity": 55
+				},
+				{
+					"time": "13:00",
+					"temp": 16,
+					"status": "cloudy",
+					"wind_speed": 11,
+					"humidity": 60
+				},
+				{
+					"time": "16:00",
+					"temp": 15,
+					"status": "windy",
+					"wind_speed": 14,
+					"humidity": 50
+				},
+				{
+					"time": "19:00",
+					"temp": 12,
+					"status": "rainy",
+					"wind_speed": 17,
+					"humidity": 70
+				}
+			],
+			"weekly_weather": [
+				{
+					"time": "Понедельник",
+					"temp": 11,
+					"status": "rainy",
+					"wind_speed": 13,
+					"humidity": 75
+				},
+				{
+					"time": "Вторник",
+					"temp": 17,
+					"status": "sunny",
+					"wind_speed": 8,
+					"humidity": 45
+				},
+				{
+					"time": "Среда",
+					"temp": 18,
+					"status": "cloudy",
+					"wind_speed": 10,
+					"humidity": 60
+				},
+				{
+					"time": "Четверг",
+					"temp": 10,
+					"status": "windy",
+					"wind_speed": 19,
+					"humidity": 55
+				},
+				{
+					"time": "Пятница",
+					"temp": 19,
+					"status": "sunny",
+					"wind_speed": 7,
+					"humidity": 40
+				},
+				{
+					"time": "Суббота",
+					"temp": 14,
+					"status": "cloudy",
+					"wind_speed": 12,
+					"humidity": 65
+				},
+				{
+					"time": "Воскресенье",
+					"temp": 12,
+					"status": "rainy",
+					"wind_speed": 16,
+					"humidity": 70
+				}
+			]
+		}
+	]
+}
